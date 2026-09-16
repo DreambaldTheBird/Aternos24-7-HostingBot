@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DreambaldTheBot",
+    "username": "EstronimJr",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HardcoreLegendSMP.aternos.me",
-    "port": 57151,
+    "ip": "AutumnGroveSMP.aternos.me:26525",
+    "port": 26525,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
